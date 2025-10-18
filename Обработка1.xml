@@ -12,14 +12,15 @@
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
-			<Name>Обработка1</Name>
+			<Name>Обработка2</Name>
 			<Synonym/>
 			<Comment/>
-			<DefaultForm>ExternalDataProcessor.Обработка1.Form.Форма</DefaultForm>
+			<DefaultForm>ExternalDataProcessor.Обработка2.Form.Форма</DefaultForm>
 			<AuxiliaryForm/>
 		</Properties>
 		<ChildObjects>
 			<Form>Форма</Form>
 		</ChildObjects>
 	</ExternalDataProcessor>
+
 </MetaDataObject>
